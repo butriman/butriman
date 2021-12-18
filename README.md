@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @butriman
+- 👀 I’m interested in analytics and development
+- 🌱 I’m currently learning Python
+- 💻 I’m working as DataWareHouse analyst/dev in bank...
+- 📫 How to reach me: t.me/butriman
